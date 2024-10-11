@@ -1,7 +1,0 @@
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/task3.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
-D:/program/lesson1/task3/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
